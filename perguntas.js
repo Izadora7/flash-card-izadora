@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Lingua inglesa',
-    'oque é algoritmo?',
-    'Conjunto de instruções ordenadas para resolver um problema'
+    'Como se diz "trabalho em equipe" em inglês?',
+    ' "Teamwork" '
 )
